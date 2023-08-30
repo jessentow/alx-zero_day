@@ -1,1 +1,1 @@
-My first readme
+Coding is fun but it suck.
